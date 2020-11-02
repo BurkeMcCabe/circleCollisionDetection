@@ -3,6 +3,7 @@ import math
 pygame.init()
 
 print("Hello There!")
+print("Woah")
 
 r = 70
 
