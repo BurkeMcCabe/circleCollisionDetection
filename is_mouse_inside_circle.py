@@ -2,6 +2,8 @@ import pygame
 import math
 pygame.init()
 
+print("Hello There!")
+
 r = 70
 
 window_width = 500
